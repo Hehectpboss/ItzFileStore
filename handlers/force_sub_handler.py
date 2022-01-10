@@ -47,7 +47,7 @@ async def handle_force_sub(bot: Client, cmd: Message):
     except Exception:
         await bot.send_message(
             chat_id=cmd.from_user.id,
-            text="Sᴏᴍᴇᴛʜɪɴɢ Wᴇɴᴛ Wʀᴏɴɢ Cᴏɴᴛᴀᴄᴛ [Bᴏss](https://t.me/Bot_Flix).",
+            text="Sᴏᴍᴇᴛʜɪɴɢ Wᴇɴᴛ Wʀᴏɴɢ Cᴏɴᴛᴀᴄᴛ [Bᴏss](https://t.me/Sf_Captain).",
             parse_mode="markdown",
             disable_web_page_preview=True
         )
