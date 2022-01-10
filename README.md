@@ -1,3 +1,4 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hehectpboss/ItzFileStore)
 
 ### Features:
 - In PM Just Forward or Send any file it will save on Database & give you the Access Link.
