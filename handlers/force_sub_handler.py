@@ -13,7 +13,7 @@ async def handle_force_sub(bot: Client, cmd: Message):
         if user.status == "kicked":
             await bot.send_message(
                 chat_id=cmd.from_user.id,
-                text="Sᴏʀʀʏ Sɪʀ Yᴏᴜ Aʀᴇ Bᴀɴɴᴇᴅ Fʀᴏᴍ Usᴇɪɴɢ Mᴇ Pʟᴇᴀsᴇ Cᴏɴᴛᴀᴄᴛ [Bᴏss](https://t.me/Bot_Flix).",
+                text="Sᴏʀʀʏ Sɪʀ Yᴏᴜ Aʀᴇ Bᴀɴɴᴇᴅ Fʀᴏᴍ Usᴇɪɴɢ Mᴇ Pʟᴇᴀsᴇ Cᴏɴᴛᴀᴄᴛ [Bᴏss](https://t.me/SF_Captain).",
                 parse_mode="markdown",
                 disable_web_page_preview=True
             )
